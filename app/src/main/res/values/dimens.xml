@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="mainLinearLayoutPadding">16dp</dimen>
+    <dimen name="productLinearLayoutPaddingStart">4dp</dimen>
+    <dimen name="supplierLinearLayoutPaddingStart">4dp</dimen>
+    <dimen name="editTextLinearLayoutWidth">0dp</dimen>
+    <dimen name="bookTextViewPadding">16dp</dimen>
+    <dimen name="fabLayoutMargin">16dp</dimen>
+    <dimen name="categoryPaddingTop">16dp</dimen>
+    <dimen name="editorUnitsPaddingRight">16dp</dimen>
+    <dimen name="editorUnitsPaddingTop">16dp</dimen>
+    <dimen name="titleMarginEnd">8dp</dimen>
+    <dimen name="titleMarginStart">8dp</dimen>
+    <dimen name="titleMarginTop">8dp</dimen>
+    <dimen name="titleTextSize">22sp</dimen>
+    <dimen name="itemMarginBottom">8dp</dimen>
+    <dimen name="soldButtonWidth">60dp</dimen>
+    <dimen name="soldButtonHeight">36dp</dimen>
+    <dimen name="soldButtonMarginEnd">8dp</dimen>
+    <dimen name="priceEditWidth">90dp</dimen>
+    <dimen name="quantityEditWidth">80dp</dimen>
+    <dimen name="quantityTextWidth">48dp</dimen>
+    <dimen name="quantityTextSize">22sp</dimen>
+    <dimen name="linearLayoutPaddingStart">4dp</dimen>
+    <dimen name="buttonWidthAndHeight">48dp</dimen>
+    <dimen name="orderButtonMarginBottom">16dp</dimen>
+    <dimen name="orderButtonMarginEnd">16dp</dimen>
+    <dimen name="itemsMarginStart">8dp</dimen>
+    <dimen name="itemsMarginTop">8dp</dimen>
+    <dimen name="soldButtonMarginStart">8dp</dimen>
+</resources>
